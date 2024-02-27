@@ -1,0 +1,11 @@
+C:\Users\nathan\Desktop\personal\ISB\PropertyManager\Migrations\bin\Debug\net8.0\Migrations.deps.json
+C:\Users\nathan\Desktop\personal\ISB\PropertyManager\Migrations\bin\Debug\net8.0\Migrations.dll
+C:\Users\nathan\Desktop\personal\ISB\PropertyManager\Migrations\bin\Debug\net8.0\Migrations.pdb
+C:\Users\nathan\Desktop\personal\ISB\PropertyManager\Migrations\obj\Debug\net8.0\Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathan\Desktop\personal\ISB\PropertyManager\Migrations\obj\Debug\net8.0\Migrations.AssemblyInfoInputs.cache
+C:\Users\nathan\Desktop\personal\ISB\PropertyManager\Migrations\obj\Debug\net8.0\Migrations.AssemblyInfo.cs
+C:\Users\nathan\Desktop\personal\ISB\PropertyManager\Migrations\obj\Debug\net8.0\Migrations.csproj.CoreCompileInputs.cache
+C:\Users\nathan\Desktop\personal\ISB\PropertyManager\Migrations\obj\Debug\net8.0\Migrations.dll
+C:\Users\nathan\Desktop\personal\ISB\PropertyManager\Migrations\obj\Debug\net8.0\refint\Migrations.dll
+C:\Users\nathan\Desktop\personal\ISB\PropertyManager\Migrations\obj\Debug\net8.0\Migrations.pdb
+C:\Users\nathan\Desktop\personal\ISB\PropertyManager\Migrations\obj\Debug\net8.0\ref\Migrations.dll

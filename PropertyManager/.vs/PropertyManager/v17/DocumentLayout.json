@@ -1,0 +1,601 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4408E9FC-C15C-458F-9A77-CD53D9D94932}|API\\API.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\api\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4408E9FC-C15C-458F-9A77-CD53D9D94932}|API\\API.csproj|solutionrelative:api\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4408E9FC-C15C-458F-9A77-CD53D9D94932}|API\\API.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\api\\controllers\\propertyownershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4408E9FC-C15C-458F-9A77-CD53D9D94932}|API\\API.csproj|solutionrelative:api\\controllers\\propertyownershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2E1F32-2BC7-429B-96E5-1665450FDCB5}|DataAccess\\DataAccess.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\dataaccess\\repositories\\propertyownershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2E1F32-2BC7-429B-96E5-1665450FDCB5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\propertyownershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2E1F32-2BC7-429B-96E5-1665450FDCB5}|DataAccess\\DataAccess.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\dataaccess\\repositories\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2E1F32-2BC7-429B-96E5-1665450FDCB5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DF11C5-EFEC-4D69-A0BD-44993C822315}|Models\\Models.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\models\\entities\\propertyownership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DF11C5-EFEC-4D69-A0BD-44993C822315}|Models\\Models.csproj|solutionrelative:models\\entities\\propertyownership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46B8858-F49B-478C-B491-F28A33CD904D}|Services\\Services.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\services\\domain\\propertyownershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46B8858-F49B-478C-B491-F28A33CD904D}|Services\\Services.csproj|solutionrelative:services\\domain\\propertyownershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\interfaces\\repositories\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\repositories\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2E1F32-2BC7-429B-96E5-1665450FDCB5}|DataAccess\\DataAccess.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\dataaccess\\repositories\\contactsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2E1F32-2BC7-429B-96E5-1665450FDCB5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\contactsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DF11C5-EFEC-4D69-A0BD-44993C822315}|Models\\Models.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\models\\datatransferobjects\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DF11C5-EFEC-4D69-A0BD-44993C822315}|Models\\Models.csproj|solutionrelative:models\\datatransferobjects\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DF11C5-EFEC-4D69-A0BD-44993C822315}|Models\\Models.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\models\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DF11C5-EFEC-4D69-A0BD-44993C822315}|Models\\Models.csproj|solutionrelative:models\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46B8858-F49B-478C-B491-F28A33CD904D}|Services\\Services.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\services\\domain\\contactsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46B8858-F49B-478C-B491-F28A33CD904D}|Services\\Services.csproj|solutionrelative:services\\domain\\contactsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\interfaces\\services\\icontactsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\services\\icontactsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4408E9FC-C15C-458F-9A77-CD53D9D94932}|API\\API.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\api\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4408E9FC-C15C-458F-9A77-CD53D9D94932}|API\\API.csproj|solutionrelative:api\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\interfaces\\repositories\\icontactsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\repositories\\icontactsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46B8858-F49B-478C-B491-F28A33CD904D}|Services\\Services.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\services\\domain\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46B8858-F49B-478C-B491-F28A33CD904D}|Services\\Services.csproj|solutionrelative:services\\domain\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\interfaces\\services\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\services\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2E1F32-2BC7-429B-96E5-1665450FDCB5}|DataAccess\\DataAccess.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\dataaccess\\dataaccess\\dataaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2E1F32-2BC7-429B-96E5-1665450FDCB5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess\\dataaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46B8858-F49B-478C-B491-F28A33CD904D}|Services\\Services.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\services\\domain\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46B8858-F49B-478C-B491-F28A33CD904D}|Services\\Services.csproj|solutionrelative:services\\domain\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DF11C5-EFEC-4D69-A0BD-44993C822315}|Models\\Models.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\models\\datatransferobjects\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DF11C5-EFEC-4D69-A0BD-44993C822315}|Models\\Models.csproj|solutionrelative:models\\datatransferobjects\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\interfaces\\services\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\services\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DF11C5-EFEC-4D69-A0BD-44993C822315}|Models\\Models.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\models\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DF11C5-EFEC-4D69-A0BD-44993C822315}|Models\\Models.csproj|solutionrelative:models\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4408E9FC-C15C-458F-9A77-CD53D9D94932}|API\\API.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4408E9FC-C15C-458F-9A77-CD53D9D94932}|API\\API.csproj|solutionrelative:api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46B8858-F49B-478C-B491-F28A33CD904D}|Services\\Services.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\services\\servicesinitializor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46B8858-F49B-478C-B491-F28A33CD904D}|Services\\Services.csproj|solutionrelative:services\\servicesinitializor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\interfaces\\services\\ipropertyownershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\services\\ipropertyownershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DF11C5-EFEC-4D69-A0BD-44993C822315}|Models\\Models.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\models\\enums\\propertytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DF11C5-EFEC-4D69-A0BD-44993C822315}|Models\\Models.csproj|solutionrelative:models\\enums\\propertytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\interfaces\\repositories\\ipropertyownershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\repositories\\ipropertyownershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4408E9FC-C15C-458F-9A77-CD53D9D94932}|API\\API.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4408E9FC-C15C-458F-9A77-CD53D9D94932}|API\\API.csproj|solutionrelative:api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46B8858-F49B-478C-B491-F28A33CD904D}|Services\\Services.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\services\\system\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46B8858-F49B-478C-B491-F28A33CD904D}|Services\\Services.csproj|solutionrelative:services\\system\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\interfaces\\system\\idataaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\system\\idataaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DF11C5-EFEC-4D69-A0BD-44993C822315}|Models\\Models.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\models\\entities\\usagelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DF11C5-EFEC-4D69-A0BD-44993C822315}|Models\\Models.csproj|solutionrelative:models\\entities\\usagelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46B8858-F49B-478C-B491-F28A33CD904D}|Services\\Services.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\services\\system\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46B8858-F49B-478C-B491-F28A33CD904D}|Services\\Services.csproj|solutionrelative:services\\system\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\interfaces\\system\\iloggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C691A8B1-BB89-4D32-B5CA-9FF2A3499F70}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\system\\iloggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2E1F32-2BC7-429B-96E5-1665450FDCB5}|DataAccess\\DataAccess.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\dataaccess\\crmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2E1F32-2BC7-429B-96E5-1665450FDCB5}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\crmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DF11C5-EFEC-4D69-A0BD-44993C822315}|Models\\Models.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\models\\entities\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40DF11C5-EFEC-4D69-A0BD-44993C822315}|Models\\Models.csproj|solutionrelative:models\\entities\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46B8858-F49B-478C-B491-F28A33CD904D}|Services\\Services.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\services\\system\\factoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46B8858-F49B-478C-B491-F28A33CD904D}|Services\\Services.csproj|solutionrelative:services\\system\\factoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4408E9FC-C15C-458F-9A77-CD53D9D94932}|API\\API.csproj|c:\\users\\nathan\\desktop\\personal\\isb\\property-manager\\propertymanager\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4408E9FC-C15C-458F-9A77-CD53D9D94932}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPropertyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\Repositories\\IPropertyRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IPropertyRepository.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\Repositories\\IPropertyRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IPropertyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:55:30.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropertyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\DataAccess\\Repositories\\PropertyRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\PropertyRepository.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\DataAccess\\Repositories\\PropertyRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\PropertyRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwCUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:54:53.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PropertyOwnership.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Models\\Entities\\PropertyOwnership.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\PropertyOwnership.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Models\\Entities\\PropertyOwnership.cs",
+              "RelativeToolTip": "Models\\Entities\\PropertyOwnership.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:54:27.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropertyOwnershipController.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\API\\Controllers\\PropertyOwnershipController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\PropertyOwnershipController.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\API\\Controllers\\PropertyOwnershipController.cs",
+              "RelativeToolTip": "API\\Controllers\\PropertyOwnershipController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:11:50.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\API\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\PropertyController.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\API\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "API\\Controllers\\PropertyController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIAzwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:09:28.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropertyOwnershipRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\DataAccess\\Repositories\\PropertyOwnershipRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\PropertyOwnershipRepository.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\DataAccess\\Repositories\\PropertyOwnershipRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\PropertyOwnershipRepository.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAA4wFcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:58:10.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PropertyOwnershipService.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Services\\Domain\\PropertyOwnershipService.cs",
+              "RelativeDocumentMoniker": "Services\\Domain\\PropertyOwnershipService.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Services\\Domain\\PropertyOwnershipService.cs",
+              "RelativeToolTip": "Services\\Domain\\PropertyOwnershipService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwC4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:07:44.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContactsService.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Services\\Domain\\ContactsService.cs",
+              "RelativeDocumentMoniker": "Services\\Domain\\ContactsService.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Services\\Domain\\ContactsService.cs",
+              "RelativeToolTip": "Services\\Domain\\ContactsService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:16:52.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\DataAccess\\Repositories\\ContactsRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\ContactsRepository.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\DataAccess\\Repositories\\ContactsRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\ContactsRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwCAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:50:03.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Models\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Models\\Entities\\Contact.cs",
+              "RelativeToolTip": "Models\\Entities\\Contact.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:10:46.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaginationDto.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Models\\DataTransferObjects\\PaginationDto.cs",
+              "RelativeDocumentMoniker": "Models\\DataTransferObjects\\PaginationDto.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Models\\DataTransferObjects\\PaginationDto.cs",
+              "RelativeToolTip": "Models\\DataTransferObjects\\PaginationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T18:07:18.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\API\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\API\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:17:03.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IContactsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\Repositories\\IContactsRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IContactsRepository.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\Repositories\\IContactsRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IContactsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:49:48.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IContactsService.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\Services\\IContactsService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IContactsService.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\Services\\IContactsService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IContactsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:49:05.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Services\\Domain\\PropertyService.cs",
+              "RelativeDocumentMoniker": "Services\\Domain\\PropertyService.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Services\\Domain\\PropertyService.cs",
+              "RelativeToolTip": "Services\\Domain\\PropertyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:06:04.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\Services\\IPropertyService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IPropertyService.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\Services\\IPropertyService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IPropertyService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:04:30.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataAccessService.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\DataAccess\\DataAccess\\DataAccessService.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess\\DataAccessService.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\DataAccess\\DataAccess\\DataAccessService.cs",
+              "RelativeToolTip": "DataAccess\\DataAccess\\DataAccessService.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAuwM0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:24:12.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashboardDto.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Models\\DataTransferObjects\\DashboardDto.cs",
+              "RelativeDocumentMoniker": "Models\\DataTransferObjects\\DashboardDto.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Models\\DataTransferObjects\\DashboardDto.cs",
+              "RelativeToolTip": "Models\\DataTransferObjects\\DashboardDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:59:05.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Services\\Domain\\DashboardService.cs",
+              "RelativeDocumentMoniker": "Services\\Domain\\DashboardService.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Services\\Domain\\DashboardService.cs",
+              "RelativeToolTip": "Services\\Domain\\DashboardService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAEwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:59:39.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\Services\\IDashboardService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IDashboardService.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\Services\\IDashboardService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IDashboardService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:57:59.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Models\\Entities\\Property.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Property.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Models\\Entities\\Property.cs",
+              "RelativeToolTip": "Models\\Entities\\Property.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:10:58.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "API\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:55:42.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServicesInitializor.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Services\\ServicesInitializor.cs",
+              "RelativeDocumentMoniker": "Services\\ServicesInitializor.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Services\\ServicesInitializor.cs",
+              "RelativeToolTip": "Services\\ServicesInitializor.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:15:12.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPropertyOwnershipService.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\Services\\IPropertyOwnershipService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IPropertyOwnershipService.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\Services\\IPropertyOwnershipService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IPropertyOwnershipService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:05:07.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PropertyType.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Models\\Enums\\PropertyType.cs",
+              "RelativeDocumentMoniker": "Models\\Enums\\PropertyType.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Models\\Enums\\PropertyType.cs",
+              "RelativeToolTip": "Models\\Enums\\PropertyType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:16:15.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IPropertyOwnershipRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\Repositories\\IPropertyOwnershipRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IPropertyOwnershipRepository.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\Repositories\\IPropertyOwnershipRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IPropertyOwnershipRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:56:33.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\API\\Startup.cs",
+              "RelativeDocumentMoniker": "API\\Startup.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\API\\Startup.cs",
+              "RelativeToolTip": "API\\Startup.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T15:59:44.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Services\\System\\SessionService.cs",
+              "RelativeDocumentMoniker": "Services\\System\\SessionService.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Services\\System\\SessionService.cs",
+              "RelativeToolTip": "Services\\System\\SessionService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAApwCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:36:33.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoggingService.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Services\\System\\LoggingService.cs",
+              "RelativeDocumentMoniker": "Services\\System\\LoggingService.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Services\\System\\LoggingService.cs",
+              "RelativeToolTip": "Services\\System\\LoggingService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:36:10.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IDataAccessService.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\System\\IDataAccessService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\System\\IDataAccessService.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\System\\IDataAccessService.cs",
+              "RelativeToolTip": "Interfaces\\System\\IDataAccessService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:50:36.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UsageLog.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Models\\Entities\\UsageLog.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\UsageLog.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Models\\Entities\\UsageLog.cs",
+              "RelativeToolTip": "Models\\Entities\\UsageLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T18:01:37.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ILoggingService.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\System\\ILoggingService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\System\\ILoggingService.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Interfaces\\System\\ILoggingService.cs",
+              "RelativeToolTip": "Interfaces\\System\\ILoggingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T18:16:31.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Models\\Entities\\Log.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Log.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Models\\Entities\\Log.cs",
+              "RelativeToolTip": "Models\\Entities\\Log.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:10:53.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CRMContext.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\DataAccess\\CRMContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\CRMContext.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\DataAccess\\CRMContext.cs",
+              "RelativeToolTip": "DataAccess\\CRMContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:14:48.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FactoryService.cs",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Services\\System\\FactoryService.cs",
+              "RelativeDocumentMoniker": "Services\\System\\FactoryService.cs",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\Services\\System\\FactoryService.cs",
+              "RelativeToolTip": "Services\\System\\FactoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T17:42:47.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\nathan\\Desktop\\personal\\ISB\\property-manager\\PropertyManager\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-24T16:13:40.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

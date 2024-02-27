@@ -1,0 +1,323 @@
+[
+  {
+    "ContainingType": "API.Controllers.ContactsController",
+    "Method": "GetContacts",
+    "RelativePath": "api/contacts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.ContactsController",
+    "Method": "GetContactById",
+    "RelativePath": "api/contacts/{contactId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contactId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.ContactsController",
+    "Method": "DeleteContactById",
+    "RelativePath": "api/contacts/{contactId}/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contactId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.ContactsController",
+    "Method": "UpdateContact",
+    "RelativePath": "api/contacts/{contactId}/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contact",
+        "Type": "Models.Entities.Contact",
+        "IsRequired": true
+      },
+      {
+        "Name": "contactId",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.ContactsController",
+    "Method": "CreateContact",
+    "RelativePath": "api/contacts/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contact",
+        "Type": "Models.Entities.Contact",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.ContactsController",
+    "Method": "GetContactsWithPagination",
+    "RelativePath": "api/contacts/pagination",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "currentPage",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.DashboardController",
+    "Method": "GetDashboardDetails",
+    "RelativePath": "api/dashboard/details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.PropertyController",
+    "Method": "GetAllProperties",
+    "RelativePath": "api/properties",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.PropertyController",
+    "Method": "GetPropertyById",
+    "RelativePath": "api/properties/{propertyId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.PropertyController",
+    "Method": "DeletePropertyById",
+    "RelativePath": "api/properties/{propertyId}/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.PropertyController",
+    "Method": "UpdateProperty",
+    "RelativePath": "api/properties/{propertyId}/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "property",
+        "Type": "Models.Entities.Property",
+        "IsRequired": true
+      },
+      {
+        "Name": "propertyId",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.PropertyController",
+    "Method": "CreateProperty",
+    "RelativePath": "api/properties/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "property",
+        "Type": "Models.Entities.Property",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.PropertyController",
+    "Method": "GetPropertiesWithPagination",
+    "RelativePath": "api/properties/pagination",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "currentPage",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.PropertyOwnershipController",
+    "Method": "GetAllPropertyOwnerships",
+    "RelativePath": "api/property-ownerships",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.PropertyOwnershipController",
+    "Method": "GetPropertyOwnershipById",
+    "RelativePath": "api/property-ownerships/{propertyOwnerhsipId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyOwnerhsipId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.PropertyOwnershipController",
+    "Method": "UpdatePropertyOwnership",
+    "RelativePath": "api/property-ownerships/{propertyOwnerhsipId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyOwnership",
+        "Type": "Models.Entities.PropertyOwnership",
+        "IsRequired": true
+      },
+      {
+        "Name": "propertyOwnerhsipId",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.PropertyOwnershipController",
+    "Method": "DeletePropertyOwnershipById",
+    "RelativePath": "api/property-ownerships/{propertyOwnerhsipId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyOwnerhsipId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.PropertyOwnershipController",
+    "Method": "GetPropertyOwnershipsByContactId",
+    "RelativePath": "api/property-ownerships/contact/{contactId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contactId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.PropertyOwnershipController",
+    "Method": "CreatePropertyOwnership",
+    "RelativePath": "api/property-ownerships/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyOwnership",
+        "Type": "Models.Entities.PropertyOwnership",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.PropertyOwnershipController",
+    "Method": "GetPropertyOwnershipsByPropertyId",
+    "RelativePath": "api/property-ownerships/property/{propertyId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
